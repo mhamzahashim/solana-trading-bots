@@ -10,7 +10,7 @@ Before diving into the details of each platform, here's a quick overview of all 
 
 | Platform Name | Preview | Live Website URL | Social | Short Description |
 |---------------|---------|------------------|--------|-------------------|
-| BONKbot | ![BONKbot Preview](https://github.com/mhamzahashim/solana-trading-bots/blob/main/Screenshot%202025-07-25%20171955.png) | [bonkbot.io](https://bonkbot.io/) | Twitter/X | Fast and simple Telegram bot with Jupiter routing, ideal for beginners with $5B+ trading volume |
+| BONKbot | ![BONKbot Preview](https://www.behance.net/gallery/224970735/Cryptocurrency-Guide-For-2025) | [bonkbot.io](https://bonkbot.io/) | Twitter/X | Fast and simple Telegram bot with Jupiter routing, ideal for beginners with $5B+ trading volume |
 | XeroGravity Bot | ![XeroGravity Bot Preview](xerogravity-preview.png) | [xerogravity.com](https://xerogravity.com/) | Twitter/X | Advanced auto-trading bot with unique Auto Pilot feature for copying influencer calls and advanced stop loss |
 | Trojan (formerly Unibot) | ![Trojan Preview](trojan-preview.png) | Via official X account | Twitter/X | Popular multi-feature bot with $2B+ volume, offering copy trading, DCA, and cross-chain bridge |
 | GMGN AI | ![GMGN AI Preview](gmgn-preview.png) | gmgn.ai | Twitter/X | AI-powered bot with smart money tracking and real-time liquidity analysis for memecoin trading |
