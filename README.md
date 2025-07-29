@@ -20,7 +20,7 @@ Before diving into the details of each platform, here's a quick overview of all 
 | Photon | ![Photon Preview](https://github.com/user-attachments/assets/d85055a8-a625-4b31-a3fe-d54872b445dc) | photon-sol.tinyastro.io | [Web Only](https://photon-sol.tinyastro.io) | Lightning-fast web-based platform optimized for desktop trading with clean interface |
 | BullX | ![BullX Preview](https://github.com/user-attachments/assets/81f0b4fa-7fd8-4911-aaca-6f52280616af) | bullx.io | [Telegram](https://t.me/bullxbot) | Multi-chain platform with PumpFun Vision for discovering new memecoins and whale tracking |
 | AutoSnipe AI | ![AutoSnipe AI Preview](https://github.com/user-attachments/assets/81a5e72f-f43a-4fd9-89ba-29e797388869) | Via Telegram | [Telegram](https://t.me/autosnipebot) | Specialized token sniping bot with AI filtering and customizable slippage tolerance |
-| Nova Bot | ![Nova Bot Preview](nova-preview.png) | docs.tradeonnova.io | [Telegram](https://t.me/novabot) | Fast trading bot with AFK features for automatic PumpFun token purchases based on filters |
+| Nova Bot | ![Nova Bot Preview](https://github.com/user-attachments/assets/f098ba9c-d99c-4e71-8df9-d7fce7ec3372) | docs.tradeonnova.io | [Telegram](https://t.me/novabot) | Fast trading bot with AFK features for automatic PumpFun token purchases based on filters |
 | TradeWiz | ![TradeWiz Preview](https://github.com/user-attachments/assets/0fe191e3-87ae-4da4-bac5-f40f5a719db7) | tradewiz.ai | [Telegram](https://t.me/tradewizbot) | One of the fastest copy trading bots with unlimited token scans and AI integration |
 | Shuriken | ![Shuriken Preview](https://github.com/user-attachments/assets/f60625f8-cf77-4a6a-b613-fc51c8db1850) | shurikenbot.com | [Telegram](https://t.me/shurikenbot) | Multi-chain bot supporting 8+ networks with group sniping and MEV protection |
 | Sol Trading Bot | ![Sol Trading Bot Preview](https://github.com/user-attachments/assets/2a488ea1-c0e9-4867-9de4-d11f662d78c1) | Via Telegram | [Telegram](https://t.me/soltradingbot) | Clean interface bot with multi-wallet generation and automated trading strategies |
@@ -34,8 +34,8 @@ Before diving into the details of each platform, here's a quick overview of all 
 | DBot | ![DBot Preview](https://github.com/user-attachments/assets/a7b5fe0c-9df1-4fb9-9740-f21fad19357f) | dbot.io | [Telegram](https://t.me/dbottrading) | Comprehensive platform with auto-copy trading, staking, and 24/7 support |
 | GariBot | ![GariBot Preview](https://github.com/user-attachments/assets/3a8ea9c0-216e-4b80-9b98-1de1f2261099) | Via Telegram | [Telegram](https://t.me/garibot) | Multi-chain bot for Solana, Aptos, and Base with lowest transaction fees |
 | Sonic Sniper BOT | ![Sonic Sniper BOT Preview](https://github.com/user-attachments/assets/dc77e650-79c4-48c6-ae86-263dbe8742e0) | Via official channels | [Telegram](https://t.me/sonicsniperbot) | Real-time token tracking with SONIC token incentives and automated functionalities |
-| Bitsgap | ![Bitsgap Preview](bitsgap-preview.png) | [bitsgap.com](https://bitsgap.com/) | [Web Only](https://bitsgap.com) | AI-powered trading platform with DCA and GRID bots, offering 7-day free trial |
-| goodcryptoX | ![goodcryptoX Preview](goodcryptox-preview.png) | goodcrypto.app | [Web Only](https://goodcrypto.app) | Non-custodial DEX bot with Grid, DCA, and Sniper features across multiple platforms |
+| Bitsgap | ![Bitsgap Preview](https://github.com/user-attachments/assets/feabcd6a-ce23-4731-91dd-ab2444c75316) | [bitsgap.com](https://bitsgap.com/) | [Web Only](https://bitsgap.com) | AI-powered trading platform with DCA and GRID bots, offering 7-day free trial |
+| goodcryptoX | ![goodcryptoX Preview](https://github.com/user-attachments/assets/c8f5b576-9c16-4af2-8dda-e704161b75c8) | goodcrypto.app | [Web Only](https://goodcrypto.app) | Non-custodial DEX bot with Grid, DCA, and Sniper features across multiple platforms |
 
 ## Understanding Solana Trading Bots
 
