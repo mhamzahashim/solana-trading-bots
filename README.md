@@ -12,9 +12,9 @@ Before diving into the details of each platform, here's a quick overview of all 
 
 | Platform Name | Preview | Live Website URL | Social | Short Description |
 |---------------|---------|------------------|--------|-------------------|
-| BONKbot | ![BONKbot Preview](bonkbot-preview.png) | [bonkbot.io](https://bonkbot.io/) | [Telegram](https://t.me/bonkbot) | Fast and simple Telegram bot with Jupiter routing, ideal for beginners with $5B+ trading volume |
-| XeroGravity Bot | ![XeroGravity Bot Preview](xerogravity-preview.png) | [xerogravity.com](https://xerogravity.com/) | [Telegram](https://t.me/xerogravitybot) | Advanced auto-trading bot with unique Auto Pilot feature for copying influencer calls and advanced stop loss |
-| Trojan (formerly Unibot) | ![Trojan Preview](trojan-preview.png) | Via official X account | [Telegram](https://t.me/trojanbot) | Popular multi-feature bot with $2B+ volume, offering copy trading, DCA, and cross-chain bridge |
+| BONKbot | ![BONKbot Preview](https://github.com/user-attachments/assets/6859c18a-2c06-40ca-874a-c872c6eb9313) | [bonkbot.io](https://bonkbot.io/) | [Telegram](https://t.me/bonkbot) | Fast and simple Telegram bot with Jupiter routing, ideal for beginners with $5B+ trading volume |
+| XeroGravity Bot | ![XeroGravity Bot Preview](https://github.com/user-attachments/assets/752871b0-b81d-488c-9418-8bc21ac0e733) | [xerogravity.com](https://xerogravity.com/) | [Telegram](https://t.me/xerogravitybot) | Advanced auto-trading bot with unique Auto Pilot feature for copying influencer calls and advanced stop loss |
+| Trojan (formerly Unibot) | ![Trojan Preview](https://github.com/user-attachments/assets/c0f91ae1-1abc-4b70-86b9-bd60c928a189) | Via official X account | [Telegram](https://t.me/trojanbot) | Popular multi-feature bot with $2B+ volume, offering copy trading, DCA, and cross-chain bridge |
 | GMGN AI | ![GMGN AI Preview](gmgn-preview.png) | gmgn.ai | [Telegram](https://t.me/gmgnbot) | AI-powered bot with smart money tracking and real-time liquidity analysis for memecoin trading |
 | Maestro | ![Maestro Preview](maestro-preview.png) | maestrobots.com | [Telegram](https://t.me/maestrobot) | Feature-rich multi-chain bot with advanced limit orders, sniping, and multi-wallet management |
 | Photon | ![Photon Preview](photon-preview.png) | photon-sol.tinyastro.io | [Web Only](https://photon-sol.tinyastro.io) | Lightning-fast web-based platform optimized for desktop trading with clean interface |
@@ -110,6 +110,8 @@ Advanced automation separates professional bots from basic tools. Features like 
 Look for bots offering customizable strategies, automatic position sizing, and smart exit conditions. The ability to set complex conditional orders based on multiple factors can significantly improve trading results.
 
 ## Getting Started with Solana Trading Bots
+
+![Market Cap of Solana](https://github.com/user-attachments/assets/2ebbfe33-2785-433e-bf9b-aec3c6be5a8b)
 
 Starting your automated trading journey doesn't have to be complicated. Most modern bots simplify the setup process, allowing you to start trading within minutes. However, understanding the proper steps ensures you begin safely and effectively.
 
